@@ -33,11 +33,9 @@ public static void main(String[] args) {
     System.out.println("What Is TDD?");
     System.out.println("What is BDD?");
     System.out.println("Differance between TDD and BDD");
-    System.out.println("Maintenance");
-    System.out.println("I love testing");
     System.out.println("what is Gherkin?");
     System.out.println(" Importance of BDD");
-            );
+
 
 
 
